@@ -38,3 +38,42 @@ p{
     float: left;
     width: 50%;
 }
+
+#cllear-left{
+    clear: left;
+}
+
+header{
+    border: 2px solid black;
+    background-color: red;
+    height: 200px;
+}
+
+nav{
+    border: 2px solid black;
+    background-color: green;
+    height: 200px;
+}
+
+aside{
+     border: 2px solid black;
+     background-color: blue;
+     float: left;
+     width: 
+     height: 200px;
+}
+
+section{
+    border: 2px solid black;
+    background-color: yellow;
+    float: left;
+    width: 90%;
+    height: 200px;
+}
+
+footer{
+    border: 2px solid black;
+    background-color: purple;
+    height: 100px;
+    clear: both;
+}
